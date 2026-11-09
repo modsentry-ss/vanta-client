@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "vanta",
+  "version": "1.0",
+  "name": "Vanta V1",
+  "description": "Vanta V1 - Minecraft PvP client.",
+  "authors": [
+    "Ziggy"
+  ],
+  "icon": {
+    "32": "assets/vanta/icon_32.png",
+    "64": "assets/vanta/icon_64.png",
+    "128": "assets/vanta/icon_128.png",
+    "256": "assets/vanta/icon_256.png"
+  },
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "vanta.VantaCore"
+    ],
+    "client": [
+      "vanta.VantaClient"
+    ]
+  },
+  "mixins": [
+    "vanta.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

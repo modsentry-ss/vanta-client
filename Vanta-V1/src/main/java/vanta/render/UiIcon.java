@@ -1,0 +1,43 @@
+package vanta.render;
+
+public enum UiIcon {
+   COMBAT,
+   MOVEMENT,
+   RENDER,
+   HUD,
+   PLAYER,
+   MISC,
+   FRIENDS,
+   CONFIGS,
+   SETTINGS,
+   LANGUAGE,
+   SIZE,
+   UNITS,
+   TOOLTIPS,
+   PREVIEW,
+   KEYBINDS,
+   LIGHT,
+   DARK,
+   PLAY,
+   TOGGLE,
+   HOLD,
+   IDLE,
+   WALK,
+   SNEAK,
+   SWIM,
+   FLY,
+   SNOW,
+   RAIN,
+   THUNDER,
+   NETHER,
+   END,
+   DEEP_DARK,
+   MACE_SPEAR,
+   SCRIPTS,
+   PVP_18;
+
+   // $FF: synthetic method
+   private static UiIcon[] $values() {
+      return new UiIcon[]{COMBAT, MOVEMENT, RENDER, HUD, PLAYER, MISC, FRIENDS, CONFIGS, SETTINGS, LANGUAGE, SIZE, UNITS, TOOLTIPS, PREVIEW, KEYBINDS, LIGHT, DARK, PLAY, TOGGLE, HOLD, IDLE, WALK, SNEAK, SWIM, FLY, SNOW, RAIN, THUNDER, NETHER, END, DEEP_DARK, MACE_SPEAR, SCRIPTS, PVP_18};
+   }
+}

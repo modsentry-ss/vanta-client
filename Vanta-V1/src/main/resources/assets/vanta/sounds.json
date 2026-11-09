@@ -1,0 +1,122 @@
+{
+  "ui.open": {
+    "sounds": [
+      {
+        "name": "vanta:ui/open_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/open_2",
+        "preload": true
+      }
+    ]
+  },
+  "ui.close": {
+    "sounds": [
+      {
+        "name": "vanta:ui/close_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/close_2",
+        "preload": true
+      }
+    ]
+  },
+  "ui.on": {
+    "sounds": [
+      {
+        "name": "vanta:ui/on_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/on_2",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/on_3",
+        "preload": true
+      }
+    ]
+  },
+  "ui.off": {
+    "sounds": [
+      {
+        "name": "vanta:ui/off_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/off_2",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/off_3",
+        "preload": true
+      }
+    ]
+  },
+  "ui.hover": {
+    "sounds": [
+      {
+        "name": "vanta:ui/hover_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/hover_2",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/hover_3",
+        "preload": true
+      }
+    ]
+  },
+  "ui.expand": {
+    "sounds": [
+      {
+        "name": "vanta:ui/expand_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/expand_2",
+        "preload": true
+      }
+    ]
+  },
+  "ui.collapse": {
+    "sounds": [
+      {
+        "name": "vanta:ui/collapse_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/collapse_2",
+        "preload": true
+      }
+    ]
+  },
+  "ui.detent": {
+    "sounds": [
+      {
+        "name": "vanta:ui/detent_1",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/detent_2",
+        "preload": true
+      },
+      {
+        "name": "vanta:ui/detent_3",
+        "preload": true
+      }
+    ]
+  },
+  "ui.bind": {
+    "sounds": [
+      {
+        "name": "vanta:ui/bind_1",
+        "preload": true
+      }
+    ]
+  }
+}
